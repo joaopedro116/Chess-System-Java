@@ -1,10 +1,8 @@
 package chess;
 
-import javax.swing.text.Position;
-
 import boardgame.Board;
-import boardgame.BoardException;
 import boardgame.Piece;
+import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rook;
 
